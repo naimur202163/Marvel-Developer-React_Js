@@ -1,9 +1,12 @@
 import React from 'react';
+import { Container } from 'react-bootstrap';
 
 const TopBuildContent = () => {
   return (
     <div>
-      <h2>THis is Top</h2>
+      <Container>
+        <h2>Naimur Rahman</h2>
+      </Container>
     </div>
   );
 };
