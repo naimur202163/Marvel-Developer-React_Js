@@ -26,14 +26,14 @@ const TopBuildContent = () => {
                 <Row>
                   <Col>
                     {' '}
-                    <Button className="p-2" variant="info">
+                    <Button className="p-3" variant="info">
                       {' '}
                       Submit Your App
                     </Button>
                   </Col>
 
                   <Col>
-                    <Button className="p-2" variant="light">
+                    <Button className="p-3" variant="light">
                       {' '}
                       View Api Docse
                     </Button>
