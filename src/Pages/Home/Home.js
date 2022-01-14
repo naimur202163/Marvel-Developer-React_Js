@@ -8,7 +8,7 @@ import TopBuildContent from '../TopBuildContent/TopBuildContent';
 
 const Home = () => {
   return (
-    <div>
+    <div style={{ backgroundColor: '#000' }}>
       <Header />
       <TopBuildContent />
       <SecoundBuildContent />

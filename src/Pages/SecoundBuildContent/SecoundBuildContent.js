@@ -6,7 +6,7 @@ import superchargeWorkflow from '../../assets/superchargeWorkflow.png';
 import './SecoundBuildContent.css';
 const SecoundBuildContent = () => {
   return (
-    <div className="" style={{ backgroundColor: '#000' }}>
+    <div className="">
       <Container>
         <div>
           <div>

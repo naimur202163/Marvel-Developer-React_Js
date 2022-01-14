@@ -4,7 +4,7 @@ import botbot from '../../assets/botbot.png';
 const FourthSlackBotContent = () => {
   return (
     <div>
-      <div style={{ backgroundColor: '#000' }}>
+      <div>
         <Container>
           <Row>
             <Col sm={12} lg={6}>

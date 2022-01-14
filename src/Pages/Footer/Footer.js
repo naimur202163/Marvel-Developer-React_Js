@@ -14,63 +14,63 @@ const Footer = () => {
           </Col>
           <Col xs={6} lg={2}>
             <div>
-              <h4 className="overView">OverView</h4>
+              <h4 className="overView text">OverView</h4>
               <ul className="ul">
-                <li>Why Marvel</li>
-                <li>Enterprise</li>
-                <li>Priceing</li>
-                <li>requested a damo</li>
-                <li>Explore</li>
-                <li>Apps</li>
-                <li>Developer APi</li>
+                <li className="text">Why Marvel</li>
+                <li className="text">Enterprise</li>
+                <li className="text">Priceing</li>
+                <li className="text">requested a damo</li>
+                <li className="text">Explore</li>
+                <li className="text">Apps</li>
+                <li className="text">Developer APi</li>
               </ul>
             </div>
           </Col>
           <Col xs={6} lg={2}>
             <div>
-              <h4 className="overView">Features</h4>
+              <h4 className="overView text">Features</h4>
               <ul className="ul">
-                <li>WireFraming</li>
-                <li>Desgin</li>
-                <li>Prototpes</li>
-                <li>requested a damo</li>
-                <li>Explore</li>
-                <li>Apps</li>
-                <li>Developer APi</li>
+                <li className="text">WireFraming</li>
+                <li className="text">Desgin</li>
+                <li className="text">Prototpes</li>
+                <li className="text">requested a damo</li>
+                <li className="text">Explore</li>
+                <li className="text">Apps</li>
+                <li className="text">Developer APi</li>
               </ul>
             </div>
           </Col>
           <Col xs={6} lg={2}>
             <div>
-              <h4 className="overView">Support</h4>
+              <h4 className="overView text">Support</h4>
               <ul className="ul">
-                <li>Call center</li>
-                <li>Tearms Of Services</li>
-                <li>Privacy</li>
+                <li className="text">Call center</li>
+                <li className="text">Tearms Of Services</li>
+                <li className="text">Privacy</li>
               </ul>
             </div>
           </Col>
           <Col xs={6} lg={2}>
             <div>
-              <h4 className="overView">Marvel</h4>
+              <h4 className="overView text">Marvel</h4>
               <ul className="ul">
-                <li>Blog </li>
-                <li>Our Team</li>
-                <li>Contact Us</li>
-                <li>success story</li>
-                <li>Brand Guild lines</li>
+                <li className="text">Blog </li>
+                <li className="text">Our Team</li>
+                <li className="text">Contact Us</li>
+                <li className="text">success story</li>
+                <li className="text">Brand Guild lines</li>
               </ul>
             </div>
           </Col>
           <Col xs={6} lg={2}>
             <div>
-              <h4 className="overView">Follow</h4>
+              <h4 className="overView text">Follow</h4>
               <ul className="ul">
-                <li>Twiter </li>
-                <li>Dribble</li>
-                <li>FaceBook</li>
-                <li> github</li>
-                <li>workable</li>
+                <li className="text">Twiter </li>
+                <li className="text">Dribble</li>
+                <li className="text"> FaceBook</li>
+                <li className="text"> github</li>
+                <li className="text">workable</li>
               </ul>
             </div>
           </Col>
